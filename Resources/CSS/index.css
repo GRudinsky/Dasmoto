@@ -1,0 +1,30 @@
+
+body {
+  font-family: Helvetica
+}
+#header h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("/Users/Giedrius/Desktop/Projects/Dasmoto's/Resources/pattern.jpeg");
+}
+h2 {
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+}
+.Brushes {
+  background-color: mediumspringgreen;
+}
+.Frames {
+  background-color: lightcoral;
+}
+.Paint {
+  background-color: skyblue;
+}
+.pricelist {
+  font-weight: bold;
+  color: blue;
+  text-decoration: none;
+}
